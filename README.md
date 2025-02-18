@@ -5,7 +5,7 @@
 - 📫 How to reach me
   Email:- kilughae@gmail.com
 - 😄 Pronouns: Mr
-- ⚡ Fun fact: The world's total data storage capacity is estimated to be around 295 exabytes, which is roughly equivalent to 295 billion gigabytes. That's a lot of zeros!
+- ⚡ Fun fact: The world's total data storage capacity is estimated at around 295 exabytes, roughly equivalent to 295 billion gigabytes. That's a lot of zeros!
 
 <!---
 Kilugha737/Kilugha737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
